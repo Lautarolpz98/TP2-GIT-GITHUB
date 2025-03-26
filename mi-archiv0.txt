@@ -1,0 +1,30 @@
+1) Contestar las siguientes preguntas utilizando las guías y documentación proporcionada
+(Desarrollar las respuestas) :
+• ¿Qué es GitHub?
+• ¿Cómo crear un repositorio en GitHub?
+• ¿Cómo crear una rama en Git?
+• ¿Cómo cambiar a una rama en Git?
+• ¿Cómo fusionar ramas en Git?
+• ¿Cómo crear un commit en Git?
+• ¿Cómo enviar un commit a GitHub?
+• ¿Qué es un repositorio remoto?
+• ¿Cómo agregar un repositorio remoto a Git?
+• ¿Cómo empujar cambios a un repositorio remoto?
+• ¿Cómo tirar de cambios de un repositorio remoto?
+• ¿Qué es un fork de repositorio?
+• ¿Cómo crear un fork de un repositorio? 
+• ¿Cómo enviar una solicitud de extracción (pull request) a un repositorio?
+• ¿Cómo aceptar una solicitud de extracción?
+• ¿Qué es un etiqueta en Git?
+• ¿Cómo crear una etiqueta en Git?
+• ¿Cómo enviar una etiqueta a GitHub?
+• ¿Qué es un historial de Git?
+• ¿Cómo ver el historial de Git?
+• ¿Cómo buscar en el historial de Git?
+• ¿Cómo borrar el historial de Git?
+• ¿Qué es un repositorio privado en GitHub?
+• ¿Cómo crear un repositorio privado en GitHub?
+• ¿Cómo invitar a alguien a un repositorio privado en GitHub?
+• ¿Qué es un repositorio público en GitHub?
+• ¿Cómo crear un repositorio público en GitHub?
+• ¿Cómo compartir un repositorio público en GitHub? 
